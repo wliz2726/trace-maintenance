@@ -94,12 +94,6 @@ a {
   display: block;
   width: min(380px, 72vw);
   height: auto;
-<<<<<<< HEAD
-  
-=======
-  border-radius: 18px;
-  box-shadow: 0 16px 42px rgba(0, 0, 0, 0.18);
->>>>>>> origin/main
 }
 
 .status-icon {
